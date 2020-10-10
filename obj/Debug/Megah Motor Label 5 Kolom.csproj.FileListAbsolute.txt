@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\obj\Debug\Megah Motor Label 5 Kolom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\obj\Debug\Megah_Motor_Label_5_Kolom.frmMain.resources
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\obj\Debug\Megah_Motor_Label_5_Kolom.Properties.Resources.resources
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\obj\Debug\Megah Motor Label 5 Kolom.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\obj\Debug\Megah Motor Label 5 Kolom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\bin\Debug\Megah Motor Label 5 Kolom.exe.config
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\bin\Debug\Megah Motor Label 5 Kolom.exe
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\bin\Debug\Megah Motor Label 5 Kolom.pdb
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\obj\Debug\Megah Motor Label 5 Kolom.exe
+C:\Users\User\source\repos\Megah Motor Label 5 Kolom\obj\Debug\Megah Motor Label 5 Kolom.pdb
